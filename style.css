@@ -8,13 +8,25 @@ ul {
 a {
     text-decoration: none;
     color: rgb(22, 82, 117);
-    
 }
-.home-heading {
+img {
+    height: auto;
+    width: 600px;
+}
+h3 {
+    text-align: center;
+}
+.head {
     text-align: center;
     font-size: 50px;
+}
+.head.recipe-head {
+    font-size: 40px;
 }
 .home-list {
     text-align: center;
     font-size: 24px;
+}
+.img-p {
+    text-align: center;
 }
