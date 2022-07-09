@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(154, 230, 160);
+    font-family: "Roboto Slab", "Times New Roman", serif;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: rgb(22, 82, 117);
+    
+}
+.home-heading {
+    text-align: center;
+    font-size: 50px;
+}
+.home-list {
+    text-align: center;
+    font-size: 24px;
+}
